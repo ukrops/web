@@ -1,6 +1,6 @@
-name: Your New Jekyll Site
-description: Blogging about stuffs
-meta_description: "Your New Jekyll Site, Blogging about stuffs"
+name: (ukr)ops - devops объединение
+description: Блог о devops и вокруг него. 
+meta_description: "Блог о девопс и современных практиках"
 
 aboutPage: true
 
@@ -16,9 +16,9 @@ disqus: false
 disqus_shortname: 'your-disqus-shortname'
 
 # Details for the RSS feed generator
-url:            'http://your-blog-url.example.com'
-author:         'Your Name'
-authorTwitter:  'YourTwitterUsername'
+url:            'http://ukrops.club'
+author:         'Meta Ops'
+authorTwitter:  'ukrops'
 
 permalink:       /:year/:title/
 
