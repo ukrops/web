@@ -10,7 +10,7 @@ gems: [jekyll-paginate]
 
 paginate: 20
 baseurl: /
-domain_name: 'http://yourblog-domain.com'
+domain_name: 'http://ukrops.club/'
 google_analytics: 'UA-XXXXXXXX-X'
 disqus: false
 disqus_shortname: 'your-disqus-shortname'
