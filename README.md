@@ -1,5 +1,7 @@
 # Cactus Theme for Jekyll
 
+[![Join the chat at https://gitter.im/UkrainianOperators/web](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/UkrainianOperators/web?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This is a port of [Cactus](https://github.com/koenbok/Cactus)'s default theme for Jekyll.
 Feel free to fork, change, modify and re-use it.
 
