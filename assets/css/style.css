@@ -354,9 +354,11 @@ thead th,th {
 }
 
 img {
-  float: left;
-  margin: 7px 13px 0px 0;
-	width: 30%;
+  margin: 7px 7px 20px 20px;
+  margin-left: auto;
+  margin-right: auto;
+	width: 100%;
+  display: block;
 	max-width: 100%;
 	border-radius: 3px;
 }
