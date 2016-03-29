@@ -18,7 +18,7 @@ disqus_shortname: 'your-disqus-shortname'
 # Details for the RSS feed generator
 url:            'http://ukrops.club'
 author:         'Meta Ops'
-authorTwitter:  'ukrops'
+authorTwitter:  'ukrops_club'
 
 permalink:       /:year/:title/
 
