@@ -2,3 +2,7 @@ _site
 \#*
 .sass-cache
 .jekyll-metadata
+*.
+*.
+.swo
+.swp
