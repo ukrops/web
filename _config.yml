@@ -5,7 +5,7 @@ meta_description: "Блог о девопс и современных практ
 aboutPage: true
 
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 gems: [jekyll-paginate]
 
 paginate: 20
