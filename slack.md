@@ -5,7 +5,7 @@ profile: true
 ---
 
 Если срочно, то присоедениться к нашему слак сообществу можно [тут](http://slack.ukrops.club/). 
-<script async defer src="http://slack.ukrops.club/slackin.js?large"></script>
+
 
 # Правила сообщества:
  
