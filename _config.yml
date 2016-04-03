@@ -4,7 +4,7 @@ meta_description: "Блог о девопс и современных практ
 
 aboutPage: true
 
-markdown: redcarpet
+markdown: kramdown
 highlighter: pygments
 gems: [jekyll-paginate]
 
