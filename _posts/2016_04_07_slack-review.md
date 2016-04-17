@@ -1,4 +1,13 @@
+---
+layout: post
+title:  "Slack digest канала #general 29.03.16 - 6.04.04"
+date:   2016-04-06 7:46:58 +0200
+categories: news
+---
+
 # Slack digest канала #general 29.03.16 - 6.04.04
+
+(Подготовил [@rodio](https://github.com/rodio))
 
 Короткое обсуждение CMDB. [Slack](https://ukrops.slack.com/archives/general/p1459332335001280).
 
