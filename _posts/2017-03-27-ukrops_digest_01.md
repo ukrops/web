@@ -18,7 +18,7 @@ categories: news
 
 [Intent to Deprecate and Remove: Trust in existing Symantec-issued Certificates](https://groups.google.com/a/chromium.org/forum/#!msg/blink-dev/eUAKwjihhBs/rpxMXjZHCQAJ) - Symantec халтурил в проверке личностей/компаний при выдачи EV сертификатов. В Google теперь размышляют, а не перестать ли им доверять после этого.
 
-[Вышел kubernetes 1.6](https://github.com/kubernetes/kubernetes/blob/master/CHANGELOG.md/#v160) – теперь кубер может запустить до 5000 нод, была проведена хорошая работа над упрощением федерализации и добавили поддержку docker CRI. Релиз примечателен тем, что это первый релиз, где релиз-менеджером был не-гуглер, а в составе [релиз-команды](https://github.com/kubernetes/features/blob/master/release-1.6/release_team.md) состоял контрибьютор из Украины (релиз-менеджер, ответственный за фичи, активный участник нашего камьюнити украинских девопсов).
+[Вышел kubernetes 1.6](https://github.com/kubernetes/kubernetes/blob/master/CHANGELOG.md/#v160) – теперь кубер может запустить до 5000 нод, была проведена хорошая работа над упрощением федерализации и добавили поддержку docker CRI. Релиз примечателен тем, что это первый релиз, где релиз-менеджером был не-гуглер, а в составе [релиз-команды](https://github.com/kubernetes/features/blob/master/release-1.6/release_team.md) состоял контрибьютор из Украины (релиз-менеджер, ответственный за фичи, активный участник нашего комьюнити украинских девопсов).
 
 [Kubernetes 1.6: Made with stability in mind](http://superuser.openstack.org/articles/kubernetes-1-6-new-features/) – статья от него же, о новых фичах кубернетиса. 
 
@@ -53,7 +53,7 @@ categories: news
 
 [Microservices Workshop All Topics Deck](https://www.slideshare.net/adriancockcroft/microservices-workshop-all-topics-deck-2016) - Концептуальные слайды о микросервисах, архитектуре, проблемах, решениях.
 
-[Auto-Scaling Jenkins with Kubernetes](http://www.monkeylittle.com/blog/2017/02/09/autoscaling-jenkins-with-kubernetes.html) - Как говориться, Jenkins и Kuber - one love. Автор показывает как сетапить ферму из Jenkins в контейнерах.
+[Auto-Scaling Jenkins with Kubernetes](http://www.monkeylittle.com/blog/2017/02/09/autoscaling-jenkins-with-kubernetes.html) - Как говорится, Jenkins и Kuber - one love. Автор показывает как сетапить ферму из Jenkins в контейнерах.
 
 [Here’s How You Start Using Docker](http://djangostars.com/blog/heres-how-you-start-using-docker/) - Getting started in Docker. Статья описывает как и что делать, увидев докер первый раз. 
 
@@ -71,7 +71,7 @@ categories: news
 [buck](https://buckbuild.com) — модульная система CI\CD от Facebook
 
 
-[A fully functional local AWS cloud stack.](https://github.com/atlassian/localstack) —  тула от Atlassian для моков\тестирвоания тулов, которые работают с AWS. Я джва года ждал эту тулу. 
+[A fully functional local AWS cloud stack.](https://github.com/atlassian/localstack) —  тула от Atlassian для моков\тестирования тулов, которые работают с AWS. Я два года ждал эту тулу. 
 
 Linux
 -----
