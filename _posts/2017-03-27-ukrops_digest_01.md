@@ -71,7 +71,7 @@ categories: news
 [buck](https://buckbuild.com) — модульная система CI\CD от Facebook
 
 
-[A fully functional local AWS cloud stack.](https://github.com/atlassian/localstack) —  тула от Atlassian для моков\тестирования тулов, которые работают с AWS. Я два года ждал эту тулу. 
+[A fully functional local AWS cloud stack.](https://github.com/atlassian/localstack) —  тула от Atlassian для моков\тестирования тулов, которые работают с AWS. Я джва года ждал эту тулу. 
 
 Linux
 -----
