@@ -44,6 +44,8 @@ categories: news
 
 [Queues Don't Fix Overload](http://ferd.ca/queues-don-t-fix-overload.html) - Старая, но концептуальная и актуальная статья о том, почему менеджеры очередей не решают проблему с чрезмерной нагрузкой на работающую систему.
 
+[OSS Business Perception Report](https://writing.kemitchell.com/2017/03/29/OSS-Business-Perception-Report.html) - «Заметки на полях» американского адвоката о том, как бизнес относится к популярным и не очень лицензиям в опенсорса.
+
 
 Туториалы
 ---------
