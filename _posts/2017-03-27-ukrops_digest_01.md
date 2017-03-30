@@ -18,9 +18,13 @@ categories: news
 
 [Intent to Deprecate and Remove: Trust in existing Symantec-issued Certificates](https://groups.google.com/a/chromium.org/forum/#!msg/blink-dev/eUAKwjihhBs/rpxMXjZHCQAJ) - Symantec халтурил в проверке личностей/компаний при выдачи EV сертификатов. В Google теперь размышляют, а не перестать ли им доверять после этого.
 
-[Вышел kubernetes 1.6](https://github.com/kubernetes/kubernetes/blob/master/CHANGELOG.md/#v160) – теперь кубер может запустить до 5000 нод, была проведена хорошая работа над упрощением федерализации и добавили поддержку docker CRI. 
+[Вышел kubernetes 1.6](https://github.com/kubernetes/kubernetes/blob/master/CHANGELOG.md/#v160) – теперь кубер может запустить до 5000 нод, была проведена хорошая работа над упрощением федерализации и добавили поддержку docker CRI. Релиз примечателен тем, что это первый релиз, где релиз-менеджером был не-гуглер, а в составе [релиз-команды](https://github.com/kubernetes/features/blob/master/release-1.6/release_team.md) состоял контрибьютор из Украины (релиз-менеджер, ответственный за фичи, активный участник нашего камьюнити украинских девопсов).
 
-[runcommand и cloudwatch (новости из AWS)](https://dvps.blog/run-command-i-cloud-watch-novosti-iz-aws/) — амазон зарелизил несколько интересных фичей, которые могут немного упростить жизнь. 
+[Kubernetes 1.6: Made with stability in mind](http://superuser.openstack.org/articles/kubernetes-1-6-new-features/) – статья от него же, о новых фичах кубернетиса. 
+
+
+
+[runcommand и cloudwatch (новости из AWS)](https://dvps.blog/run-command-i-cloud-watch-novosti-iz-aws/) — амазон зарелизил несколько интересных фичей, которые могут немного упростить жизнь. Статья от @ctrlok
 
 
 Процессы
