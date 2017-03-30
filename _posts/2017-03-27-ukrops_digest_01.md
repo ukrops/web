@@ -10,7 +10,7 @@ categories: news
 -------
 [Designing 100G optical connections](https://code.facebook.com/posts/1633153936991442/designing-100g-optical-connections) - Facebook как всегда делают вау-эффект, на этот раз они спроектировали оптику с пропускной способностью в 100 гигабит.  
 
-[Pyston 0.6.1 released, and future plans](https://blog.pyston.org/2017/01/31/pyston-0-6-1-released-and-future-plans/) - Dropbox анонсировал последннюю версию Pyston и больше не будет его девелопить.Они решили вернуться на CPython. Грусть-печаль-тоска.
+[Pyston 0.6.1 released, and future plans](https://blog.pyston.org/2017/01/31/pyston-0-6-1-released-and-future-plans/) - Dropbox анонсировал последнюю версию Pyston и больше не будет его девелопить. Они решили вернуться на CPython. Грусть-печаль-тоска.
 
 [Announcing the first SHA1 collision](https://security.googleblog.com/2017/02/announcing-first-sha1-collision.html) - Google доказал несостоятельность криптографического алгоритма SHA1, в общем, выпиливаем.
 
@@ -37,13 +37,13 @@ categories: news
 
 Туториалы
 ---------
-[The million dollar engineering problem](https://segment.com/blog/the-million-dollar-eng-problem/) - Пост описывает оптимизации использования AWS ресурсов и как компания уменьшила косты для сервисов. В осном речь идет о DynamoDB, Autoscalling, ELB, ECS
+[The million dollar engineering problem](https://segment.com/blog/the-million-dollar-eng-problem/) - Пост описывает оптимизации использования AWS ресурсов и как компания уменьшила косты для сервисов. В основном речь идет о DynamoDB, Autoscalling, ELB, ECS
 
 [Microservices Workshop All Topics Deck](https://www.slideshare.net/adriancockcroft/microservices-workshop-all-topics-deck-2016) - Концептуальные слайды о микросервисах, архитектуре, проблемах, решениях.
 
 [Auto-Scaling Jenkins with Kubernetes](http://www.monkeylittle.com/blog/2017/02/09/autoscaling-jenkins-with-kubernetes.html) - Как говориться, Jenkins и Kuber - one love. Автор показывает как сетапить ферму из Jenkins в контейнерах.
 
-[Here’s How You Start Using Docker/](http://djangostars.com/blog/heres-how-you-start-using-docker/) - Getting started in Docker. Статья описывает как и что делать, увидев докер первый раз. 
+[Here’s How You Start Using Docker](http://djangostars.com/blog/heres-how-you-start-using-docker/) - Getting started in Docker. Статья описывает как и что делать, увидев докер первый раз. 
 
 
 Тулзы
@@ -55,7 +55,7 @@ categories: news
 
 Linux
 -----
-[Two frequently used system calls are ~77% slower on AWS EC2](https://blog.packagecloud.io/eng/2017/03/08/system-calls-are-much-slower-on-ec2/) - Интересное исследование на тему того почему некоторые сисколы в AWS медленные. Хороший пример методики исследования.
+[Two frequently used system calls are ~77% slower on AWS EC2](https://blog.packagecloud.io/eng/2017/03/08/system-calls-are-much-slower-on-ec2/) - Интересное исследование на тему того, почему некоторые сисколы в AWS медленные. Хороший пример методики исследования.
 
 [Efficient File Copying On Linux](https://eklitzke.org/efficient-file-copying-on-linux) - Cказ о том, почему GNU `cp` копирует блоками по 128 KB и это хорошо
 
@@ -64,6 +64,6 @@ Linux
 
 Падения
 -------
-[A collection of postmortems](https://github.com/danluu/post-mortems) - Великолепная колекция разборов полетов от ведущих компаний (и их вещущих падений).
+[A collection of postmortems](https://github.com/danluu/post-mortems) - Великолепная коллекция разборов полетов от ведущих компаний (и их ведущих падений).
 
 [Summary of the Amazon S3 Service Disruption](https://aws.amazon.com/ru/message/41926/) - Официальная сводка информации по поводу падения Amazon S3, который заафектил все, что только можно было заафектить.
