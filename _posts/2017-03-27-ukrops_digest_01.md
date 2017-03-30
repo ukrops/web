@@ -18,7 +18,7 @@ categories: news
 
 [Intent to Deprecate and Remove: Trust in existing Symantec-issued Certificates](https://groups.google.com/a/chromium.org/forum/#!msg/blink-dev/eUAKwjihhBs/rpxMXjZHCQAJ) - Symantec халтурил в проверке личностей/компаний при выдачи EV сертификатов. В Google теперь размышляют, а не перестать ли им доверять после этого.
 
-[Вышел kubernetes 1.6](https://github.com/kubernetes/kubernetes/blob/master/CHANGELOG.md/#v160) – теперь кубер может запустить до 5000 нод, была проведена хооршая работа над упрощением федерализации и добавили поддержку docker CRI. 
+[Вышел kubernetes 1.6](https://github.com/kubernetes/kubernetes/blob/master/CHANGELOG.md/#v160) – теперь кубер может запустить до 5000 нод, была проведена хорошая работа над упрощением федерализации и добавили поддержку docker CRI. 
 
 
 Процессы
