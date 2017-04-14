@@ -8,12 +8,12 @@ categories: news
 
 Новости
 -------
-[Over The Air: Exploiting Broadcom’s Wi-Fi Stack](https://googleprojectzero.blogspot.com/2017/04/over-air-exploiting-broadcoms-wi-fi_4.html) - Тут такое дело! Оказывается, broadcom – решето и потенциально уязвимы миллионы устройств. Ребята упоролись и отреверсинженерили всё, что можно было, в результате нашли проблему. Apple вроде уже даже запилил фикс. 
+[Over The Air: Exploiting Broadcom’s Wi-Fi Stack](https://googleprojectzero.blogspot.com/2017/04/over-air-exploiting-broadcoms-wi-fi_4.html) - Тут такое дело! Оказывается, broadcom – решето и потенциально уязвимы миллионы устройств. Ребята упоролись и отреверсинженерили всё, что можно было, в результате нашли проблему. Apple вроде уже даже запилил фикс.  
 [$PHP не нужен* ](https://habrahabr.ru/post/326284/) - ну вот как бы ... Да.  
-[Вышел graphite 1.0](https://graphite.readthedocs.io/en/latest/releases/1_0_0.html) — спустя миллион лет в разработке. Куча новых функций и оптимизация работы. 
-[Вышла альфа prometheus](https://prometheus.io/blog/2017/04/10/promehteus-20-sneak-peak/) — ребята разработали новый движок и вообще. 
-[Вышел nginx 1.12 stable](https://www.nginx.com/blog/nginx-1-12-1-13-released/) — все улучшения из 1.11 теперь в стабильной ветке. 
-[Spotify и DNS](https://labs.spotify.com/2017/03/31/spotifys-lovehate-relationship-with-dns/) — очень прикольная статья о том, как в spotify готовят DNS. 
+[Вышел graphite 1.0](https://graphite.readthedocs.io/en/latest/releases/1_0_0.html) — спустя миллион лет в разработке. Куча новых функций и оптимизация работы.  
+[Вышла альфа prometheus](https://prometheus.io/blog/2017/04/10/promehteus-20-sneak-peak/) — ребята разработали новый движок и вообще.  
+[Вышел nginx 1.12 stable](https://www.nginx.com/blog/nginx-1-12-1-13-released/) — все улучшения из 1.11 теперь в стабильной ветке.  
+[Spotify и DNS](https://labs.spotify.com/2017/03/31/spotifys-lovehate-relationship-with-dns/) — очень прикольная статья о том, как в spotify готовят DNS.  
 
 Процессы
 --------
@@ -27,15 +27,15 @@ categories: news
 
 Туториалы
 ---------
-[Sockets in a Bind: Troubleshooting Port Exhaustion in Heroku's Routing Layer](https://engineering.heroku.com/blogs/2017-03-30-sockets-in-a-bind/) - совсем недавно у Heroku немного поламался роутинг, точнее, возник большой латенси. Ребята решили эту проблему и делятся опытом, как не попасть впросак. Статью писали два инженера из SRE team. 
-[Preventing cross-site attacks using same-site cookies](https://blogs.dropbox.com/tech/2017/03/preventing-cross-site-attacks-using-same-site-cookies/?utm_source=webopsweekly) - как Dropbox хендлит CSRF-атаки и как сделать это в вашем продукте. 
-[Mastering HTTP Caching - from request to response and everything](https://blog.fortrabbit.com/mastering-http-caching) - очень хороший Deep dive в кеширование, теория, подкреплённая реальными примерами. Интересно!
+[Sockets in a Bind: Troubleshooting Port Exhaustion in Heroku's Routing Layer](https://engineering.heroku.com/blogs/2017-03-30-sockets-in-a-bind/) - совсем недавно у Heroku немного поламался роутинг, точнее, возник большой латенси. Ребята решили эту проблему и делятся опытом, как не попасть впросак. Статью писали два инженера из SRE team.  
+[Preventing cross-site attacks using same-site cookies](https://blogs.dropbox.com/tech/2017/03/preventing-cross-site-attacks-using-same-site-cookies/?utm_source=webopsweekly) - как Dropbox хендлит CSRF-атаки и как сделать это в вашем продукте.   
+[Mastering HTTP Caching - from request to response and everything](https://blog.fortrabbit.com/mastering-http-caching) - очень хороший Deep dive в кеширование, теория, подкреплённая реальными примерами. Интересно!  
 
 
 Тулзы
 -----
-[Lsyncd (Live Syncing Daemon) synchronizes local directories with remote targets](https://github.com/axkibe/lsyncd) - штуковина на основе rsync, которая умеет трекать inotify и fsevents, чтобы очень быстро синкать изменения. 
-[BCC - Dynamic Tracing Tools for Linux](https://iovisor.github.io/bcc/) - очень мощный инструмент для трейса и дебага. Был прорекламирован @ctrlok на DevOps митапе. 
+[Lsyncd (Live Syncing Daemon) synchronizes local directories with remote targets](https://github.com/axkibe/lsyncd) - штуковина на основе rsync, которая умеет трекать inotify и fsevents, чтобы очень быстро синкать изменения.  
+[BCC - Dynamic Tracing Tools for Linux](https://iovisor.github.io/bcc/) - очень мощный инструмент для трейса и дебага. Был прорекламирован @ctrlok на DevOps митапе.  
 
 Linux
 -----
