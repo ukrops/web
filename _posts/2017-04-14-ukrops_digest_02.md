@@ -39,7 +39,7 @@ categories: news
 
 Linux
 -----
-[Ubuntu on AWS gets serious performance boost with AWS-tuned kernel](https://insights.ubuntu.com/2017/04/05/ubuntu-on-aws-gets-serious-performance-boost-with-aws-tuned-kernel) - AWS и Canonical скооперировались и запилили натюненное ядро. Теперь у Ubuntu в ES2 самый длинный. 
+[Ubuntu on AWS gets serious performance boost with AWS-tuned kernel](https://insights.ubuntu.com/2017/04/05/ubuntu-on-aws-gets-serious-performance-boost-with-aws-tuned-kernel) - AWS и Canonical скооперировались и запилили натюненное ядро. Теперь у Ubuntu в EС2 самый длинный. 
 [BPF - the forgotten bytecode](https://blog.cloudflare.com/bpf-the-forgotten-bytecode/) - Инженер из Cloudflare в печали из-за того, что все используют tcpdump, но никто не понимает, как он работает внутри. Типуля описывает, как происходит magic, и на примере показывает, как они это юзают у себя в компании. 
 
 
