@@ -46,6 +46,8 @@ categories: news
 
 [OSS Business Perception Report](https://writing.kemitchell.com/2017/03/29/OSS-Business-Perception-Report.html) - «Заметки на полях» американского адвоката о том, как бизнес относится к популярным и не очень лицензиям в опенсорсе.
 
+[OSS Business Perception Report](https://writing.kemitchell.com/2017/03/29/OSS-Business-Perception-Report.html) - «Заметки на полях» американского адвоката о том, как бизнес относится к популярным и не очень лицензиям в опенсорсe.
+
 
 Туториалы
 ---------
