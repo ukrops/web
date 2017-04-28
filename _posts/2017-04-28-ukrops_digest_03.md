@@ -22,7 +22,7 @@ categories: news
 
 Мнения
 ------
-[Слайды с cвежаго Docker Conference](https://www.slideshare.net/brendangregg/container-performance-analysis) - Краткий обзор контейнеров, namespace, cgroups. Так же рассмотренные тулзы для дебага, отслеживания peformance Docker containers.  
+[Слайды с cвежeго Docker Conference](https://www.slideshare.net/brendangregg/container-performance-analysis) - Краткий обзор контейнеров, namespace, cgroups. Так же рассмотренные тулзы для дебага, отслеживания peformance Docker containers.
 [Correlated Metrics in Monitoring](https://www.vividcortex.com/blog/correlating-metrics) - Что такое корреляция метрик, как это правильно понимать и готовить.   
 [Salary by Developer Type](http://stackoverflow.com/insights/survey/2017#work-salary-by-developer-type) - Рейтинг зарплат (для повышения самооценки). У нас самый длинный.  
 [Time-series data: Why (and how) to use a relational database instead of NoSQL](https://blog.timescale.com/time-series-data-why-and-how-to-use-a-relational-database-instead-of-nosql-d0cd6975e87c) - Концептуальный гайд по TSDB. Сложна!   
@@ -32,9 +32,9 @@ categories: news
 Туториалы
 ---------
 [A Comprehensive Guide to Terraform](https://blog.gruntwork.io/a-comprehensive-guide-to-terraform-b3d32832baca) - Как выучить terraform за 21 день. Наши курсы самые лучшие!   
-[GDB debug segfault](http://www.brendangregg.com/blog/2016-08-09/gdb-example-ncurses.html). - Туториал как отслеживать segfauts, просматривать исходный код библиотек и не только, прям с gdb.  
+[GDB debug segfault](http://www.brendangregg.com/blog/2016-08-09/gdb-example-ncurses.html). - Туториал как отслеживать segfaults, просматривать исходный код библиотек и не только, прям с gdb.
 [.gitconfig Tutorial](https://blog.scottnonnenberg.com/better-git-configuration/) - Полезные советы по командам и aliases в GIT.  
-[Работа с инциндентами в гугле](https://cloudplatform.googleblog.com/2017/02/Incident-management-at-Google-adventures-in-SRE-land.html) - для тех кто не осилил\не читал книгу — краткая выжимка о работе с инциндентами. Мастрид, однозначно. 
+[Работа с инцидентами в гугле](https://cloudplatform.googleblog.com/2017/02/Incident-management-at-Google-adventures-in-SRE-land.html) - для тех кто не осилил\не читал книгу — краткая выжимка о работе с инциндентами. Мастрид, однозначно.
 
 Тулзы
 -----
